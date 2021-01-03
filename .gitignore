@@ -1,0 +1,5 @@
+.vscode
+env
+db.sqlites
+__pycahe__
+*.pyc
